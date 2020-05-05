@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Recent &amp; Upcoming Talks | Mercedez Callenes</title>
-    <link>https://mercedezcallenes.com/talk/</link>
-      <atom:link href="https://mercedezcallenes.com/talk/index.xml" rel="self" type="application/rss+xml" />
+    <link>mercedezcallenes.com/talk/</link>
+      <atom:link href="mercedezcallenes.com/talk/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Mercedez Callenes</copyright>
     <image>
-      <url>https://mercedezcallenes.com/images/icon_hucb97e4ba742832c84d65e7c867d7c20a_48189_512x512_fill_lanczos_center_2.png</url>
+      <url>/mercedezcallenes.com/images/icon_hucb97e4ba742832c84d65e7c867d7c20a_48189_512x512_fill_lanczos_center_2.png</url>
       <title>Recent &amp; Upcoming Talks</title>
-      <link>https://mercedezcallenes.com/talk/</link>
+      <link>mercedezcallenes.com/talk/</link>
     </image>
     
   </channel>
