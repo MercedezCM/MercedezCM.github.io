@@ -5,14 +5,14 @@
   "theme_color": "hsl(119, 83%, 25%)",
   "background_color": "hsl(119, 83%, 25%)",
   "icons": [{
-    "src": "/mercedezcallenes.com/images/icon_hucb97e4ba742832c84d65e7c867d7c20a_48189_192x192_fill_lanczos_center_2.png",
+    "src": "/www.mercedezcallenes.com/images/icon_hucb97e4ba742832c84d65e7c867d7c20a_48189_192x192_fill_lanczos_center_2.png",
     "sizes": "192x192",
     "type": "image/png"
     }, {
-    "src": "/mercedezcallenes.com/images/icon_hucb97e4ba742832c84d65e7c867d7c20a_48189_512x512_fill_lanczos_center_2.png",
+    "src": "/www.mercedezcallenes.com/images/icon_hucb97e4ba742832c84d65e7c867d7c20a_48189_512x512_fill_lanczos_center_2.png",
     "sizes": "512x512",
     "type": "image/png"
      }],
   "display": "standalone",
-  "start_url": "/mercedezcallenes.com/?utm_source=web_app_manifest"
+  "start_url": "/www.mercedezcallenes.com/?utm_source=web_app_manifest"
 }

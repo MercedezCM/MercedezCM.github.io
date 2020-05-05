@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors | Mercedez Callenes</title>
-    <link>mercedezcallenes.com/authors/</link>
-      <atom:link href="mercedezcallenes.com/authors/index.xml" rel="self" type="application/rss+xml" />
+    <link>www.mercedezcallenes.com/authors/</link>
+      <atom:link href="www.mercedezcallenes.com/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Mercedez Callenes</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/mercedezcallenes.com/images/icon_hucb97e4ba742832c84d65e7c867d7c20a_48189_512x512_fill_lanczos_center_2.png</url>
+      <url>/www.mercedezcallenes.com/images/icon_hucb97e4ba742832c84d65e7c867d7c20a_48189_512x512_fill_lanczos_center_2.png</url>
       <title>Authors</title>
-      <link>mercedezcallenes.com/authors/</link>
+      <link>www.mercedezcallenes.com/authors/</link>
     </image>
     
   </channel>
