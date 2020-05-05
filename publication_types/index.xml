@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publication_types | Mercedez Callenes</title>
-    <link>www.mercedezcallenes.com/publication_types/</link>
-      <atom:link href="www.mercedezcallenes.com/publication_types/index.xml" rel="self" type="application/rss+xml" />
+    <link>mercedezcallenes.com/publication_types/</link>
+      <atom:link href="mercedezcallenes.com/publication_types/index.xml" rel="self" type="application/rss+xml" />
     <description>Publication_types</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Mercedez Callenes</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/www.mercedezcallenes.com/images/icon_hucb97e4ba742832c84d65e7c867d7c20a_48189_512x512_fill_lanczos_center_2.png</url>
+      <url>/mercedezcallenes.com/images/icon_hucb97e4ba742832c84d65e7c867d7c20a_48189_512x512_fill_lanczos_center_2.png</url>
       <title>Publication_types</title>
-      <link>www.mercedezcallenes.com/publication_types/</link>
+      <link>mercedezcallenes.com/publication_types/</link>
     </image>
     
   </channel>

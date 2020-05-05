@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts | Mercedez Callenes</title>
-    <link>www.mercedezcallenes.com/post/</link>
-      <atom:link href="www.mercedezcallenes.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <link>mercedezcallenes.com/post/</link>
+      <atom:link href="mercedezcallenes.com/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Mercedez Callenes</copyright>
     <image>
-      <url>/www.mercedezcallenes.com/images/icon_hucb97e4ba742832c84d65e7c867d7c20a_48189_512x512_fill_lanczos_center_2.png</url>
+      <url>/mercedezcallenes.com/images/icon_hucb97e4ba742832c84d65e7c867d7c20a_48189_512x512_fill_lanczos_center_2.png</url>
       <title>Posts</title>
-      <link>www.mercedezcallenes.com/post/</link>
+      <link>mercedezcallenes.com/post/</link>
     </image>
     
   </channel>
