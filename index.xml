@@ -5,12 +5,20 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Mercedez Callenes</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Mercedez Callenes</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Mercedez Callenes</copyright><lastBuildDate>Wed, 13 May 2020 23:09:32 -0700</lastBuildDate>
     <image>
       <url>/images/icon_hucb97e4ba742832c84d65e7c867d7c20a_48189_512x512_fill_lanczos_center_2.png</url>
       <title>Mercedez Callenes</title>
       <link>/</link>
     </image>
+    
+    <item>
+      <title>Affliation 1</title>
+      <link>/post/my-article-name/</link>
+      <pubDate>Wed, 13 May 2020 23:09:32 -0700</pubDate>
+      <guid>/post/my-article-name/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Crossing thresholds: The use of spatial analysis to identify intensification of the Colombian conflict</title>
