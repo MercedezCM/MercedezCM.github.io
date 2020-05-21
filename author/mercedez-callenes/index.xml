@@ -5,12 +5,44 @@
     <link>/author/mercedez-callenes/</link>
       <atom:link href="/author/mercedez-callenes/index.xml" rel="self" type="application/rss+xml" />
     <description>Mercedez Callenes</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Mercedez Callenes</copyright>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Mercedez Callenes</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/author/mercedez-callenes/avatar_hu6a21d4ade0118087a603aa605f2e69c3_317248_270x270_fill_q90_lanczos_center.jpg</url>
+      <url>/images/icon_hucb97e4ba742832c84d65e7c867d7c20a_48189_512x512_fill_lanczos_center_2.png</url>
       <title>Mercedez Callenes</title>
       <link>/author/mercedez-callenes/</link>
     </image>
+    
+    <item>
+      <title>Crossing thresholds: The use of spatial analysis to identify intensification of the Colombian conflict</title>
+      <link>/publication/doi-10-1002-crq-21265/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/doi-10-1002-crq-21265/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Paramilitary Violence in Colombia: A Multilevel Negative Binomial Analysis</title>
+      <link>/publication/doi-10-1080-10242694-2019-1624067/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/doi-10-1080-10242694-2019-1624067/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fair Trade-Organic Coffee Cooperatives, Migration, and Secondary Schooling in Southern Mexico</title>
+      <link>/publication/doi-10-1080-00220388-2011-598511/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/doi-10-1080-00220388-2011-598511/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fair Trade/Organic Coffee, Rural Livelihoods, and the “Agrarian Question”: Southern Mexican Coffee Families in Transition</title>
+      <link>/publication/barham-2011134/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/barham-2011134/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
