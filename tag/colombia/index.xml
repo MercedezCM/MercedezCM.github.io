@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#34;Colombia&#34; | Mercedez Callenes</title>
+    <link>/tag/colombia/</link>
+      <atom:link href="/tag/colombia/index.xml" rel="self" type="application/rss+xml" />
+    <description>&#34;Colombia&#34;</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2020 Mercedez Callenes</copyright><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hucb97e4ba742832c84d65e7c867d7c20a_48189_512x512_fill_lanczos_center_2.png</url>
+      <title>&#34;Colombia&#34;</title>
+      <link>/tag/colombia/</link>
+    </image>
+    
+    <item>
+      <title>A hotspot analysis of critical hydrocarbons infrastructure in Colombia: ELN (Ejército de Liberación Nacional) and FARC (Fuerzas Armadas Revolucionarias de Colombia) attacks on Colombian pipelines</title>
+      <link>/publication/mendizabal-2021102376/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/mendizabal-2021102376/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

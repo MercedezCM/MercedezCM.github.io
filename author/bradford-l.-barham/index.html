@@ -30,7 +30,7 @@
   <meta name="description" content="Ph.D. Candidate in Public Policy and Political Economy">
 
   
-  <link rel="alternate" hreflang="en-us" href="mercedezcallenes.com/author/bradford-l.-barham/">
+  <link rel="alternate" hreflang="en-us" href="/author/bradford-l.-barham/">
 
   
 
@@ -68,8 +68,6 @@
       
     
 
-    
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.5.1/leaflet.css" integrity="sha256-SHMGCYmST46SoyGgo4YR/9AlK1vf3ff84Aq9yK4hdqM=" crossorigin="anonymous">
     
 
     
@@ -198,13 +196,51 @@
   
   
   
-  <link rel="stylesheet" href="/mercedezcallenes.com/css/academic.css">
+  <link rel="stylesheet" href="/css/academic.css">
 
   
 
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-89816905-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-89816905-1', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
 
@@ -212,14 +248,14 @@
   
 
   
-  <link rel="alternate" href="mercedezcallenes.com/author/bradford-l.-barham/index.xml" type="application/rss+xml" title="Mercedez Callenes">
+  <link rel="alternate" href="/author/bradford-l.-barham/index.xml" type="application/rss+xml" title="Mercedez Callenes">
   
 
-  <link rel="manifest" href="/mercedezcallenes.com/index.webmanifest">
-  <link rel="icon" type="image/png" href="/mercedezcallenes.com/images/icon_hucb97e4ba742832c84d65e7c867d7c20a_48189_32x32_fill_lanczos_center_2.png">
-  <link rel="apple-touch-icon" type="image/png" href="/mercedezcallenes.com/images/icon_hucb97e4ba742832c84d65e7c867d7c20a_48189_192x192_fill_lanczos_center_2.png">
+  <link rel="manifest" href="/index.webmanifest">
+  <link rel="icon" type="image/png" href="/images/icon_hucb97e4ba742832c84d65e7c867d7c20a_48189_32x32_fill_lanczos_center_2.png">
+  <link rel="apple-touch-icon" type="image/png" href="/images/icon_hucb97e4ba742832c84d65e7c867d7c20a_48189_192x192_fill_lanczos_center_2.png">
 
-  <link rel="canonical" href="mercedezcallenes.com/author/bradford-l.-barham/">
+  <link rel="canonical" href="/author/bradford-l.-barham/">
 
   
   
@@ -235,12 +271,12 @@
   <meta property="twitter:card" content="summary">
   
   <meta property="og:site_name" content="Mercedez Callenes">
-  <meta property="og:url" content="mercedezcallenes.com/author/bradford-l.-barham/">
+  <meta property="og:url" content="/author/bradford-l.-barham/">
   <meta property="og:title" content="Bradford L. Barham | Mercedez Callenes">
-  <meta property="og:description" content="Ph.D. Candidate in Public Policy and Political Economy"><meta property="og:image" content="/mercedezcallenes.com/images/icon_hucb97e4ba742832c84d65e7c867d7c20a_48189_512x512_fill_lanczos_center_2.png">
-  <meta property="twitter:image" content="/mercedezcallenes.com/images/icon_hucb97e4ba742832c84d65e7c867d7c20a_48189_512x512_fill_lanczos_center_2.png"><meta property="og:locale" content="en-us">
+  <meta property="og:description" content="Ph.D. Candidate in Public Policy and Political Economy"><meta property="og:image" content="/images/icon_hucb97e4ba742832c84d65e7c867d7c20a_48189_512x512_fill_lanczos_center_2.png">
+  <meta property="twitter:image" content="/images/icon_hucb97e4ba742832c84d65e7c867d7c20a_48189_512x512_fill_lanczos_center_2.png"><meta property="og:locale" content="en-us">
   
-    <meta property="og:updated_time" content="2012-01-01T00:00:00&#43;00:00">
+    <meta property="og:updated_time" content="2011-01-01T00:00:00&#43;00:00">
   
 
   
@@ -307,7 +343,7 @@
 
     
     <div class="d-none d-lg-inline-flex">
-      <a class="navbar-brand" href="/mercedezcallenes.com/">Mercedez Callenes</a>
+      <a class="navbar-brand" href="/">Mercedez Callenes</a>
     </div>
     
 
@@ -320,7 +356,7 @@
 
     
     <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
-      <a class="navbar-brand" href="/mercedezcallenes.com/">Mercedez Callenes</a>
+      <a class="navbar-brand" href="/">Mercedez Callenes</a>
     </div>
     
 
@@ -355,7 +391,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/mercedezcallenes.com/#about"><span>Home</span></a>
+          <a class="nav-link " href="/#about"><span>Home</span></a>
         </li>
 
         
@@ -384,29 +420,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/mercedezcallenes.com/#publications"><span>Research</span></a>
-        </li>
-
-        
-        
-
-        
-
-        
-        
-        
-          
-        
-
-        
-        
-        
-        
-        
-        
-
-        <li class="nav-item">
-          <a class="nav-link " href="/mercedezcallenes.com/files/cv.pdf"><span>CV</span></a>
+          <a class="nav-link " href="/#publications"><span>Research</span></a>
         </li>
 
         
@@ -435,7 +449,87 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/mercedezcallenes.com/#contact"><span>Contact</span></a>
+          <a class="nav-link " href="/#extra"><span>Teaching</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/files/cv.pdf"><span>CV</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#awards"><span>More</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#contact"><span>Contact</span></a>
         </li>
 
         
@@ -499,11 +593,7 @@
       <ul>
         
         <li>
-          <a href="mercedezcallenes.com/publication/doi-10-1080-00220388-2011-598511/">Fair Trade-Organic Coffee Cooperatives, Migration, and Secondary Schooling in Southern Mexico</a>
-        </li>
-        
-        <li>
-          <a href="mercedezcallenes.com/publication/barham-2011134/">Fair Trade/Organic Coffee, Rural Livelihoods, and the “Agrarian Question”: Southern Mexican Coffee Families in Transition</a>
+          <a href="/publication/barham-2011134/">Fair Trade/Organic Coffee, Rural Livelihoods, and the “Agrarian Question”: Southern Mexican Coffee Families in Transition</a>
         </li>
         
       </ul>
@@ -535,8 +625,6 @@
     
 
     
-    
-      <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.5.1/leaflet.js" integrity="sha256-EErZamuLefUnbMBQbsEqu1USa+btR2oIlCpBJbyD4/g=" crossorigin="anonymous"></script>
     
 
     
@@ -580,7 +668,7 @@
     
     
     
-    <script src="/mercedezcallenes.com/js/academic.min.6f7ce8be710290b8c431bbc97f405d15.js"></script>
+    <script src="/js/academic.min.6f7ce8be710290b8c431bbc97f405d15.js"></script>
 
     
 
@@ -596,7 +684,21 @@
   
 
   <p class="powered-by">
-    © 2020 Mercedez Callenes &middot; 
+    © 2020 Mercedez Callenes
+  </p>
+
+  
+  
+
+
+
+
+
+
+  <p class="powered-by">
+    Powered by the
+    <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a> for
+    <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a>.
 
     
     <span class="float-right" aria-hidden="true">

@@ -2,21 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jessa Lewis | Mercedez Callenes</title>
-    <link>mercedezcallenes.com/author/jessa-lewis/</link>
-      <atom:link href="mercedezcallenes.com/author/jessa-lewis/index.xml" rel="self" type="application/rss+xml" />
+    <link>/author/jessa-lewis/</link>
+      <atom:link href="/author/jessa-lewis/index.xml" rel="self" type="application/rss+xml" />
     <description>Jessa Lewis</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Mercedez Callenes</copyright><lastBuildDate>Sun, 01 Jan 2012 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/mercedezcallenes.com/images/icon_hucb97e4ba742832c84d65e7c867d7c20a_48189_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hucb97e4ba742832c84d65e7c867d7c20a_48189_512x512_fill_lanczos_center_2.png</url>
       <title>Jessa Lewis</title>
-      <link>mercedezcallenes.com/author/jessa-lewis/</link>
+      <link>/author/jessa-lewis/</link>
     </image>
     
     <item>
+      <title>Fair Trade-Organic Coffee Cooperatives, Migration, and Secondary Schooling in Southern Mexico</title>
+      <link>/publication/doi-10-1080-00220388-2011-598511/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/doi-10-1080-00220388-2011-598511/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Fair Trade/Organic Coffee, Rural Livelihoods, and the “Agrarian Question”: Southern Mexican Coffee Families in Transition</title>
-      <link>mercedezcallenes.com/publication/barham-2011134/</link>
+      <link>/publication/barham-2011134/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>mercedezcallenes.com/publication/barham-2011134/</guid>
+      <guid>/publication/barham-2011134/</guid>
       <description></description>
     </item>
     

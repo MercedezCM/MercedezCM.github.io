@@ -3,159 +3,268 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>mercedezcallenes.com/publication-type/2/</loc>
+    <loc>/talk/example/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2020-12-22T13:49:31-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/colombia/</loc>
+    <lastmod>2020-12-22T13:49:31-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/conflict/</loc>
+    <lastmod>2020-12-22T13:49:31-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/hotspot-analysis/</loc>
+    <lastmod>2020-12-22T13:49:31-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/pipelines/</loc>
+    <lastmod>2020-12-22T13:49:31-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication-type/2/</loc>
+    <lastmod>2020-12-22T13:49:31-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/mendizabal-2021102376/</loc>
+    <lastmod>2020-12-22T13:49:31-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2020-12-22T13:49:31-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2020-12-22T13:49:31-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2020-12-22T13:49:31-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2020-12-22T13:49:31-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2020-12-22T13:49:31-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2020-12-22T13:49:31-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2020-12-22T13:49:31-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2020-12-22T13:49:31-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/slides/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/slides/example/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/doi-10-1002-crq-21265/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>mercedezcallenes.com/author/agustin-palao-mendizabal/</loc>
+    <loc></loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>mercedezcallenes.com/authors/</loc>
+    <loc>/publication/doi-10-1080-10242694-2019-1624067/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>mercedezcallenes.com/publication/doi-10-1002-crq-21265/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+    <loc>/tag/deep-learning/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>mercedezcallenes.com/author/david-saucedo-de-la-fuente/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+    <loc>/project/example/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>mercedezcallenes.com/author/jennifer-s.-holmes/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+    <loc>/project/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>mercedezcallenes.com/author/mercedez-callenes/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+    <loc>/tag/academic/</loc>
+    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>mercedezcallenes.com/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+    <loc>/categories/</loc>
+    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>mercedezcallenes.com/publication/doi-10-1080-10242694-2019-1624067/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+    <loc>/category/demo/</loc>
+    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>mercedezcallenes.com/publication_types/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+    <loc></loc>
+    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>mercedezcallenes.com/publication/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+    <loc>/post/</loc>
+    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>mercedezcallenes.com/author/alvaro-cardenas/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+    <loc>/post/getting-started/</loc>
+    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>mercedezcallenes.com/author/bradford-l.-barham/</loc>
+    <loc></loc>
+    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/%E5%BC%80%E6%BA%90/</loc>
+    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/category/%E6%95%99%E7%A8%8B/</loc>
+    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication-type/1/</loc>
+    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/example/</loc>
+    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
     <lastmod>2012-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>mercedezcallenes.com/publication/doi-10-1080-00220388-2011-598511/</loc>
+    <loc>/publication/doi-10-1080-00220388-2011-598511/</loc>
     <lastmod>2012-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>mercedezcallenes.com/author/jeremy-g.-weber/</loc>
+    <loc></loc>
     <lastmod>2012-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>mercedezcallenes.com/author/jessa-lewis/</loc>
+    <loc></loc>
     <lastmod>2012-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>mercedezcallenes.com/author/jessa-lewis-valentine/</loc>
+    <loc></loc>
     <lastmod>2012-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>mercedezcallenes.com/author/seth-r.-gitter/</loc>
-    <lastmod>2012-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>mercedezcallenes.com/tag/education/</loc>
+    <loc>/tag/education/</loc>
     <lastmod>2011-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>mercedezcallenes.com/tag/fair-trade/</loc>
+    <loc>/tag/fair-trade/</loc>
     <lastmod>2011-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>mercedezcallenes.com/publication/barham-2011134/</loc>
+    <loc>/publication/barham-2011134/</loc>
     <lastmod>2011-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>mercedezcallenes.com/author/jeremy-weber/</loc>
+    <loc></loc>
     <lastmod>2011-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>mercedezcallenes.com/tag/latin-america/</loc>
+    <loc></loc>
     <lastmod>2011-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>mercedezcallenes.com/tag/mexico/</loc>
+    <loc>/tag/latin-america/</loc>
     <lastmod>2011-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>mercedezcallenes.com/tag/migration/</loc>
+    <loc>/tag/mexico/</loc>
     <lastmod>2011-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>mercedezcallenes.com/tag/organic/</loc>
+    <loc>/tag/migration/</loc>
     <lastmod>2011-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>mercedezcallenes.com/author/seth-gitter/</loc>
+    <loc>/tag/organic/</loc>
     <lastmod>2011-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>mercedezcallenes.com/tags/</loc>
+    <loc></loc>
     <lastmod>2011-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>mercedezcallenes.com/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>mercedezcallenes.com/author/mercedez-callenes/</loc>
-  </url>
-  
-  <url>
-    <loc>mercedezcallenes.com/post/</loc>
-  </url>
-  
-  <url>
-    <loc>mercedezcallenes.com/talk/</loc>
   </url>
   
 </urlset>
